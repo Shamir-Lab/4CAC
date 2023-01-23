@@ -5,7 +5,10 @@
 
 # Installation
 
-4CAC requires python 3.7 to run.
+4CAC requires python 3.7 or above to run. You will need the following python dependencies to run 4CAC and related support scripts.
+
+* scikit-learn
+* xgboost
 
 To run 4CAC, please download the respository as follows.
 ```sh

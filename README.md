@@ -65,6 +65,8 @@ The command line options for this script are:
 
 `--outdir`: The output directory. If not specified, default = `--asmdir`
 
+## 4. An example
+A small test dataset could be found under the test_data folder.
 
 
 # Contacts

@@ -66,7 +66,7 @@ The command line options for this script are:
 `--outdir`: The output directory. If not specified, default = `--asmdir`
 
 ## 4. An example
-A small test dataset could be found under the test_data folder.
+A small test dataset could be found under the test_data folder. Note that the `ground_truth_class.fasta` file under test_data is not necessary for running 4CAC. It can be used to compare the XGBoost classification and 4CAC classification with the ground truth if users are interested.
 
 
 # Contacts
